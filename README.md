@@ -17,9 +17,9 @@
 * ` Equivalency sign
 * ~ tilde
 * & and sign
-😃     😲      😙
-### emojis 
 
+### emojis 
+😃     😲      😙
 
 
 
