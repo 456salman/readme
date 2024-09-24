@@ -19,7 +19,8 @@
 * & and sign
 
 ### emojis 
-:rofl: :innocent: :grin:
+
+😃 😲 😙
 
 #### links
 [github sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
