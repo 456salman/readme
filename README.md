@@ -17,10 +17,11 @@
 * ` Equivalency sign
 * ~ tilde
 * & and sign
-
+😃     😲      😙
 ### emojis 
 
-😃 😲 😙
+
+
 
 #### links
 [github sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
