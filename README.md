@@ -27,3 +27,5 @@
 [github sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
 [github emoji](https://gist.github.com/rxaviers/7360908)
 [about readme](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
+[CLI commands](docs/cli.md) 
