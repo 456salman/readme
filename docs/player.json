@@ -14,10 +14,10 @@
     "team":{"name":"inter miami", "city":"miami"}
 },
   {
-  "name":"serena williams",
-  "age":41,
-  "sport":"tennis",
-    "team":{"name":"n/a", "city":"n/a"}
+  "name":"serena williams", //string
+  "age":41, //intager
+  "sport":"tennis", //string
+    "team":{"name":"n/a", "city":"n/a"} //string
   
   
   },
