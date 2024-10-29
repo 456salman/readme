@@ -15,7 +15,7 @@
 },
   {
   "name":"serena williams",
-  "age":"41",
+  "age":41,
   "sport":"tennis",
     "team":{"name":"n/a", "city":"n/a"}
   
