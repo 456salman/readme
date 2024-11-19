@@ -1,4 +1,4 @@
--- Add an assignment with NULL due_date
+
 INSERT INTO assignments (course_id, title, status) 
 VALUES ('COMP1238', 'Assignment with no date', 'Not Started');
 
@@ -28,11 +28,11 @@ SELECT date();
 SELECT strftime('%Y', due_date) AS Year, * 
 FROM assignments;
 
--- SUBSTRING(string, start, length)
+
 SELECT DISTINCT SUBSTRING(course_id, 1, 4) 
 FROM courses;
 
--- Count how many courses there are with each prefix like 'MATH' and 'COMP'
+
 SELECT SUBSTRING(course_id, 1, 4) AS prefix, count(*)
 FROM courses
 GROUP BY prefix;
@@ -42,7 +42,7 @@ FROM  assignments
 WHERE status != 'Completed'
 ORDER BY due_date;
 
--- Use this query as a reference for the next step
+
 SELECT course_id, title, status, due_date
 FROM assignments
 WHERE status != 'Completed'	
